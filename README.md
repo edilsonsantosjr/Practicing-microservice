@@ -1,0 +1,1 @@
+Este projeto demonstra a implementação de microserviços, com foco na integração de uma aplicação de quiz com um microserviço de envio de e-mails. É um exemplo prático de como utilizar microserviços em uma aplicação real.
